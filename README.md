@@ -1,6 +1,11 @@
-Мое резюме:
+![](https://komarev.com/ghpvc/?username=Stuksus&style=plastic&label=profile+views&color=orange)
+
+
+#Мое резюме:
 
 **ссылка**
+
+#Опыт работы:
 
 
 
