@@ -4,7 +4,7 @@ My name is Maksim.
 
 I've been using GitHub to host my reports🚀
 
-![](https://komarev.com/ghpvc/?username=maccim001&style=flat&label=finding+me&color=FFFFFF) 🤔 
+![](https://komarev.com/ghpvc/?username=maccim001&style=flat&label=match&color=FFFFFF) 🤔 
 
 # Образование высшее специальное:
 
