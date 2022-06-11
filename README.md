@@ -6,6 +6,31 @@ I've been using GitHub to host my reports🚀
 
 ![](https://komarev.com/ghpvc/?username=maccim001&style=flat&label=finding+me&color=FFFFFF) 🤔 
 
+# Образование высшее специальное:
+
+<table>
+<tr>
+  <th rowspan="2">Учреждение</th>
+  <th rowspan="2">Специальность</th>
+  <th rowspan="2">Знания</th>
+  <th rowspan="2">Форма обучения</th>
+  <th colspan="2" >Период</th>
+</tr> 
+<tr> 
+ <th>С</th>
+ <th>По</th>
+</tr> 
+<tr>
+  <td>ГОУ ВПО Государственный Технический Университет</td>
+  <td>process engineer</td>
+  <td>Специальность на кафедре Химико-Технологического факультета. </td>
+  <td>Очная</td>
+  <td>06.04.2007</td>
+  <td>18.09.2009</td>
+</tr> 
+<table>
+
+
 
 # Мое резюме:
 
@@ -66,13 +91,6 @@ I've been using GitHub to host my reports🚀
 
 </table>
 
-# Сертификаты:
- - Яндекс.Практикум: Специалист по Data Science 
- <!---
- [RUS](https://github.com/maccim001/maccim001/blob/main/name.pdf)
- [EN](https://github.com/maccim001/maccim001/blob/main/name_en.pdf)
---->
-
 # Курсы:
 <table>
 <tr>
@@ -85,8 +103,14 @@ I've been using GitHub to host my reports🚀
   <td>Дистанционная</td>
   <td>Завершен</td>
 </tr> 
+</table>
 
-
+ # Сертификаты:
+ - Яндекс.Практикум: Специалист по Data Science 
+ <!---
+ [RUS](https://github.com/maccim001/maccim001/blob/main/name.pdf)
+ [EN](https://github.com/maccim001/maccim001/blob/main/name_en.pdf)
+--->
 
 
 
