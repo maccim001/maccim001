@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Stuksus&style=plastic&label=profile+views&color=orange)
+![](https://komarev.com/ghpvc/?username=maccim001&style=flat&label=finding+me&color=FFFFFF)
 
 
 #Мое резюме:
