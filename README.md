@@ -1,4 +1,4 @@
-# Ragazzi 👋 <img src="https://media0.giphy.com/media/26tnp4hSVILpsB7fa/giphy.gif" width="60px"> 👋 Benvenuti a tutti
+# Ragazzi 👋 <img src="https://media0.giphy.com/media/26tnp4hSVILpsB7fa/giphy.gif" width="40px"> 👋 Benvenuti a tutti
 
 My name is Maksim. 
 
