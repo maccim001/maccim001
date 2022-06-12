@@ -1,5 +1,12 @@
 # Ragazzi 👋 <img src="https://media0.giphy.com/media/26tnp4hSVILpsB7fa/giphy.gif" width="40px"> 👋 Benvenuti
 
+# Resume / Мое резюме:
+
+**link / ссылка**
+<!---
+ - [Резюме](https://github.com/maccim001/maccim001/blob/main/name.pdf)
+--->
+
 # Higher special education / Образование высшее специальное:
 
 <table>
@@ -23,15 +30,6 @@
   <td>01.04.2007</td>
 </tr> 
 <table>
-
-
-
-# Resume / Мое резюме:
-
-**link / ссылка**
-<!---
- - [Резюме](https://github.com/maccim001/maccim001/blob/main/name.pdf)
---->
 
 # Work Experience / Опыт работы:
 
