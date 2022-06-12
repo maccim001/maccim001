@@ -1,11 +1,8 @@
-# Ragazzi 👋 <img src="https://media0.giphy.com/media/26tnp4hSVILpsB7fa/giphy.gif" width="60px">
+# Ragazzi 👋 <img src="https://media0.giphy.com/media/26tnp4hSVILpsB7fa/giphy.gif" width="60px"> 👋 Benvenuti a tutti
 
 My name is Maksim. 
 
 I've been using GitHub to host my reports🚀
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=maccim369&show_icons=true&&hide=issues,contribs)
-![](https://komarev.com/ghpvc/?username=maccim001&style=flat&label=match&color=FFFFFF) 🤔 
 
 # Higher special education / Образование высшее специальное:
 
@@ -113,10 +110,14 @@ Collecting information about the demand for goods, the reasons for its changes /
  [RUS](https://github.com/maccim001/maccim001/blob/main/name.pdf)
  [EN](https://github.com/maccim001/maccim001/blob/main/name_en.pdf)
 --->
+  
+  ## 📈 My Machine Learning Roadmap  See the [full interactive version](https://dbourke.link/mlmap).
 
+<img src="https://raw.githubusercontent.com/mrdbourke/machine-learning-roadmap/master/2020-ml-roadmap-overview.png" width="600px">
+  
 
-
-
+![Github stats](https://github-readme-stats.vercel.app/api?username=maccim369&show_icons=true&&hide=issues,contribs)
+![](https://komarev.com/ghpvc/?username=maccim001&style=flat&label=match&color=FFFFFF) 🤔 
 
 
 
