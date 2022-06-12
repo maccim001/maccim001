@@ -1,7 +1,5 @@
 # Ragazzi 👋 <img src="https://media0.giphy.com/media/26tnp4hSVILpsB7fa/giphy.gif" width="40px"> 👋 Benvenuti
 
-My name is Maksim. I've been using GitHub to host my reports
-
 # Higher special education / Образование высшее специальное:
 
 <table>
