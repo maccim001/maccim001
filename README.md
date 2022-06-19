@@ -2,7 +2,7 @@
 
 # Resume / Мое резюме:
 
-- [Резюме](https://github.com/maccim001/maccim001/blob/main/Миронов Максим.pdf)
+- [Резюме](https://github.com/maccim001/maccim001/blob/main/МироновМаксим.pdf)
 
 # Higher special education / Образование высшее специальное:
 
