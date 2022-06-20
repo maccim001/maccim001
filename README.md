@@ -90,14 +90,15 @@ Collecting information about the demand for goods, the reasons for its changes /
   <th>Status / Статус</th>
 </tr> 
   <tr>
-  <td><a href = "https://github.com/maccim001/name">Яндекс.Практикум: Специалист по Data Science</a></td>
+  <td>Яндекс.Практикум: Специалист по Data Science</a></td>
   <td>Remote Education / Дистанционная</td>
   <td>Completed / Завершен</td>
 </tr> 
 </table>
 
  # Certificates / Сертификаты:
- - Yandex.Practicum: Data Science / Яндекс.Практикум: Специалист по Data Science 
+ - Yandex.Practicum: Data Science / Яндекс.Практикум: Специалист по Data Science
+  
  <!---
  [RUS](https://github.com/maccim001/maccim001/blob/main/name.pdf)
  [EN](https://github.com/maccim001/maccim001/blob/main/name_en.pdf)
@@ -115,6 +116,8 @@ Collecting information about the demand for goods, the reasons for its changes /
 
 
 <!---
+
+<a href = "https://github.com/maccim001/name">
 - 👋 Hi, I’m @maccim001
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
