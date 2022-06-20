@@ -1,5 +1,6 @@
+<!---
 <img src="https://media0.giphy.com/media/26tnp4hSVILpsB7fa/giphy.gif" width="40px">
-
+--->
 # Resume / Мое резюме:
 
 - [Резюме](https://github.com/maccim369/maccim369/blob/8ae99932df030e477e59488213c1d3cdf9927031/%D0%9C%D0%B8%D1%80%D0%BE%D0%BD%D0%BE%D0%B2%20%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC.pdf)
