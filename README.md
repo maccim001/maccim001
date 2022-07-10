@@ -1,8 +1,6 @@
 <!---
 <img src="https://media0.giphy.com/media/26tnp4hSVILpsB7fa/giphy.gif" width="40px">
 --->
-![](https://www.codewars.com/users/maccim369/badges/large)
-
 # Resume / Мое резюме:
 
 - [Резюме](https://github.com/maccim369/maccim369/blob/8ae99932df030e477e59488213c1d3cdf9927031/%D0%9C%D0%B8%D1%80%D0%BE%D0%BD%D0%BE%D0%B2%20%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC.pdf)
@@ -113,6 +111,8 @@ Collecting information about the demand for goods, the reasons for its changes /
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=maccim369&show_icons=true&&hide=issues,contribs)
 ![](https://komarev.com/ghpvc/?username=maccim001&style=flat&label=match&color=FFFFFF) 🤔 
+![](https://www.codewars.com/users/maccim369/badges/large)
+
 
 
 
