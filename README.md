@@ -1,7 +1,7 @@
 <!---
 <img src="https://media0.giphy.com/media/26tnp4hSVILpsB7fa/giphy.gif" width="40px">
 --->
-# Data Science / Аналитик Данных
+# Data Science and Analytics / Аналитик Данных
 
 # Resume / Мое резюме:
 
