@@ -114,7 +114,7 @@ Collecting information about the demand for goods, the reasons for its changes /
 ![Github stats](https://github-readme-stats.vercel.app/api?username=maccim369&show_icons=true&&hide=issues,contribs)
 ![](https://komarev.com/ghpvc/?username=maccim001&style=flat&label=match&color=FFFFFF) 🤔 
 ![](https://www.codewars.com/users/maccim369/badges/large)
-
+[SQL_completed_solutions](https://www.codewars.com/users/maccim369/completed_solutions)
 
 
 
