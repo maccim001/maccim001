@@ -1,7 +1,7 @@
 <!---
 <img src="https://media0.giphy.com/media/26tnp4hSVILpsB7fa/giphy.gif" width="40px">
 --->
-# Data Science and Quantitative Analyst (Researcher) / Аналитик Данных
+# Data Science and Quantitative Analyst (Researcher) / Аналитик
 
 # Resume / Мое резюме:
 
