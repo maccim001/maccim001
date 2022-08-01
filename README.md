@@ -99,7 +99,7 @@ Collecting information about the demand for goods, the reasons for its changes /
 </table>
 
  # Certificates / Сертификаты:
- - Yandex.Practicum: Data Science / Яндекс.Практикум: Специалист по Data Science [EN](https://github.com/maccim369/maccim369/blob/bf2dabcfa02ce43374e5e260a339db493aba2d25/certificate_en.pdf)/[RUS](https://github.com/maccim369/maccim369/blob/bf2dabcfa02ce43374e5e260a339db493aba2d25/certificate.pdf)
+ - [Yandex.Practicum: Data Science](https://github.com/maccim369/maccim369/blob/bf2dabcfa02ce43374e5e260a339db493aba2d25/certificate_en.pdf) / [Яндекс.Практикум: Специалист по Data Science](https://github.com/maccim369/maccim369/blob/bf2dabcfa02ce43374e5e260a339db493aba2d25/certificate.pdf)
  
   
   ## 📈 My Machine Learning Roadmap  See the [full interactive version](https://dbourke.link/mlmap).
