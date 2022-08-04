@@ -5,7 +5,7 @@
 
 # Resume / Мое резюме:
 
-- [Резюме](https://github.com/maccim369/maccim369/blob/8ae99932df030e477e59488213c1d3cdf9927031/%D0%9C%D0%B8%D1%80%D0%BE%D0%BD%D0%BE%D0%B2%20%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC.pdf)
+- [Резюме](https://github.com/maccim369/maccim369/blob/944007dc87d2923466fda02bc1c4233fab1beade/%D0%9C%D0%B8%D1%80%D0%BE%D0%BD%D0%BE%D0%B2%20%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC.pdf)
 
 # Certificates / Сертификаты:
  - [Yandex.Practicum: Data Science](https://github.com/maccim369/maccim369/blob/bf2dabcfa02ce43374e5e260a339db493aba2d25/certificate_en.pdf) / [Яндекс.Практикум: Специалист по Data Science](https://github.com/maccim369/maccim369/blob/bf2dabcfa02ce43374e5e260a339db493aba2d25/certificate.pdf)
